@@ -1,0 +1,27 @@
+{
+  "name": "library-management-practice",
+  "version": "1.0.0",
+  "description": "This is the library-management api backend for manageing books and users",
+  "homepage": "https://github.com/saiteja-1-hub/library-management-practice#readme",
+  "bugs": {
+    "url": "https://github.com/saiteja-1-hub/library-management-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiteja-1-hub/library-management-practice.git"
+  },
+  "license": "ISC",
+  "author": "Saiteja",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

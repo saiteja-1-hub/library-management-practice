@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "password": "Rahul@123",
+    "role": "member",
+    "phone": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Priya Reddy",
+    "email": "priya.reddy@example.com",
+    "password": "Priya@123",
+    "role": "member",
+    "phone": "9876543211"
+  },
+  {
+    "id": 3,
+    "name": "Arjun Kumar",
+    "email": "arjun.kumar@example.com",
+    "password": "Arjun@123",
+    "role": "member",
+    "phone": "9876543212"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Patel",
+    "email": "sneha.patel@example.com",
+    "password": "Sneha@123",
+    "role": "member",
+    "phone": "9876543213"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "password": "Vikram@123",
+    "role": "member",
+    "phone": "9876543214"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "password": "Ananya@123",
+    "role": "member",
+    "phone": "9876543215"
+  },
+  {
+    "id": 7,
+    "name": "Library Admin",
+    "email": "admin@library.com",
+    "password": "Admin@123",
+    "role": "librarian",
+    "phone": "9876543216"
+  }
+]
